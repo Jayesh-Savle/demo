@@ -1,4 +1,4 @@
 # demo
 first repository.<br>
-learning github
+learning github (By Shraddha Khapra)
 
